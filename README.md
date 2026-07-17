@@ -28,7 +28,7 @@ No clean-code police. No perfectionism. Just useful scraps waiting for a second 
 
 - 💡 **No perfectionism.** Messy code, half-baked ideas, and ugly prototypes are welcome.
 - 🧪 **No judgment.** Share your experiments, abandoned projects, and "what if..." moments.
-- 📃 **License stays.** Every contribution is released under this project's license. See [LICENSE](LICENSE).
+- 📃 **License stays.** Every contribution is released under this project's license. See [LICENSE](https://github.com/speedyk-005/TheOpenCodeYard#-license).
 - ⚖️ **Keep it legal.** Only contribute code you have the right to share.
 - 📦 **Keep it light.** Keep individual projects under 5 MB. No `node_modules`, build artifacts, or binaries unless essential to demo. Big projects belong in their own repo.
 - 🤖  **Know your code.** Don't dump AI-generated or copy-pasted code you can't explain. If you don't understand it, learn it first — then contribute.
