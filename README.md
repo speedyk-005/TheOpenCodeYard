@@ -44,7 +44,14 @@ Small utilities, snippets, one-off scripts, reusable helpers, and quick experime
 <details>
 <summary><b>Python</b></summary>
 
-*(Nothing dumped here yet.)*
+<details>
+<summary>DeterministicSpanFinder</summary>
+
+Find substring spans ignoring punctuation. Extracted from chunklet-py (MIT). ~2x faster than regex for this use case.
+
+by @speedyk-005 | Archived 
+[yards/scraps/speedyk-005/deterministic-span-finder/](yards/scraps/speedyk-005/deterministic-span-finder/)
+</details>
 
 </details>
 
