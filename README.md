@@ -9,7 +9,7 @@
   <p><i>"One developer's scrap is another developer's starting point."</i></p>
 </div>
 
-[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/speedyk-005/TheOpenCodeYard/graphs/commit-activity))
+[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/speedyk-005/TheOpenCodeYard/graphs/commit-activity)
 [![License: Apache 2.0](https://img.shields.io/badge/License-Apache_2.0-orange.svg)](https://opensource.org/licenses/Apache-2.0)
 [![Latest Commit](https://badgen.net/github/last-commit/speedyk-005/TheOpenCodeYard)](https://github.com/speedyk-005/TheOpenCodeYard/commit/)
 [![Contributors](https://img.shields.io/github/contributors/speedyk-005/TheOpenCodeYard)](https://github.com/speedyk-005/TheOpenCodeYard/graphs/contributors/)
