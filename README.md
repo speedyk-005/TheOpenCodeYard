@@ -9,8 +9,8 @@
   <p><i>"One developer's scrap is another developer's starting point."</i></p>
 </div>
 
-[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/speedyk-005/TheOpenCodeYard/graphs/commit-activity)
-[![License](https://img.shields.io/github/license/speedyk-005/TheOpenCodeYard)](https://github.com/speedyk-005/TheOpenCodeYard/blob/main/LICENSE)
+[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/speedyk-005/TheOpenCodeYard/graphs/commit-activity))
+[![License: Apache 2.0](https://img.shields.io/badge/License-Apache_2.0-orange.svg)](https://opensource.org/licenses/Apache-2.0)
 [![Latest Commit](https://badgen.net/github/last-commit/speedyk-005/TheOpenCodeYard)](https://github.com/speedyk-005/TheOpenCodeYard/commit/)
 [![Contributors](https://img.shields.io/github/contributors/speedyk-005/TheOpenCodeYard)](https://github.com/speedyk-005/TheOpenCodeYard/graphs/contributors/)
 [![Open Issues](http://isitmaintained.com/badge/open/speedyk-005/TheOpenCodeYard.svg)](http://isitmaintained.com/project/speedyk-005/TheOpenCodeYard)
@@ -24,12 +24,13 @@ No clean-code police. No perfectionism. Just useful scraps waiting for a second 
 
 ---
 
-## 💡 Ground Rules
+##  📝 Ground Rules
 
-- **No perfectionism.** Messy code, rough edges, and unfinished ideas are welcome.
-- **No judgment.** Share your experiments, abandoned projects, and "what if..." moments.
-- **License stays.** Every contribution is released under this repository's license. See [LICENSE](LICENSE).
-- **Keep it legal.** Only contribute code you have the right to share.
+- 💡 **No perfectionism.** Messy code, half-baked ideas, and ugly prototypes are welcome.
+- 🧪 **No judgment.** Share your experiments, abandoned projects, and "what if..." moments.
+- 📃 **License stays.** Every contribution is released under this project's license. See [LICENSE](LICENSE).
+- ⚖️ **Keep it legal.** Only contribute code you have the right to share.
+- 📦 **Keep it light.** Keep individual projects under 5 MB. No `node_modules`, build artifacts, or binaries unless essential to demo. Big projects belong in their own repo.
 
 If it runs, demonstrates an idea, or solves a problem, it probably belongs here.
 

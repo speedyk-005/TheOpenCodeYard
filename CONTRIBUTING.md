@@ -1,30 +1,31 @@
 # Contributing to The Open CodeYard
 
-Thanks for stopping by the junkyard. 🔧
+Thanks for stopping by the junkyard.
 
 The Open CodeYard is a zero-shame digital junkyard for random prototypes, abandoned projects, throwaway scripts, old coding memories, and wild ideas.
 
 ## Ground Rules
 
-- 💡 **No perfectionism.** Messy code, half-baked ideas, and ugly prototypes are welcome.
-- 🧪 **No judgment.** Share your experiments, abandoned projects, and "what if..." moments.
-- 📃 **License stays.** Every contribution is released under this project's license. See [LICENSE](LICENSE).
-- ⚖️ **Keep it legal.** Only contribute code you have the right to share.
+- **No perfectionism.** Messy code, half-baked ideas, and ugly prototypes are welcome.
+- **No judgment.** Share your experiments, abandoned projects, and "what if..." moments.
+- **License stays.** Every contribution is released under this project's license. See [LICENSE](LICENSE).
+- **Keep it legal.** Only contribute code you have the right to share.
+- **Keep it light.** Keep individual projects under 5 MB. No `node_modules`, build artifacts, or binaries unless essential to demo. Big projects belong in their own repo.
 
 ## What You Can Contribute
 
 Almost anything belongs here, including:
 
-- 🧪 Experimental projects
-- 💡 Half-finished ideas
-- 🔥 Abandoned but useful code
-- 📦 Reusable snippets
-- 🤖 Small bots
-- 🎮 Game prototypes
-- 📊 Algorithms
-- 🎨 UI components
-- 🌐 API examples
-- 📚 Learning exercises
+- Experimental projects
+- Half-finished ideas
+- Abandoned but useful code
+- Reusable snippets
+- Small bots
+- Game prototypes
+- Algorithms
+- UI components
+- API examples
+- Learning exercises
 
 If you built it, forgot about it, and don't want it collecting dust on your hard drive, it's probably a good fit.
 
