@@ -31,6 +31,7 @@ No clean-code police. No perfectionism. Just useful scraps waiting for a second 
 - 📃 **License stays.** Every contribution is released under this project's license. See [LICENSE](LICENSE).
 - ⚖️ **Keep it legal.** Only contribute code you have the right to share.
 - 📦 **Keep it light.** Keep individual projects under 5 MB. No `node_modules`, build artifacts, or binaries unless essential to demo. Big projects belong in their own repo.
+- 🤖  **Know your code.** Don't dump AI-generated or copy-pasted code you can't explain. If you don't understand it, learn it first — then contribute.
 
 If it runs, demonstrates an idea, or solves a problem, it probably belongs here.
 
