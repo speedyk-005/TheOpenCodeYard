@@ -31,26 +31,6 @@ No clean-code police. No perfectionism. Just useful scraps waiting for a second 
 - **License stays.** Every contribution is released under this repository's license. See [LICENSE](LICENSE).
 - **Keep it legal.** Only contribute code you have the right to share.
 
----
-
-## 📦 What Belongs Here?
-
-Almost anything that still has something to teach.
-
-Examples include:
-
-- 🧩 Utility classes
-- 📦 Reusable snippets
-- 🧪 Experiments
-- 💡 Half-finished ideas
-- 🔥 Abandoned projects
-- 🤖 Small bots
-- 🎮 Game prototypes
-- 🌐 API examples
-- 📊 Algorithms
-- 🎨 UI components
-- 📚 Learning exercises
-
 If it runs, demonstrates an idea, or solves a problem, it probably belongs here.
 
 ---
