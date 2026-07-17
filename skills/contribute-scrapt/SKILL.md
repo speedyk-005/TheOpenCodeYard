@@ -49,6 +49,32 @@ The agent receives a piece of code (pasted or file path) and determines:
 - Code must be something the user can explain — not blind AI copy-paste
 - If the user doesn't understand the code, ask them to learn it first
 
+### README Template
+
+Before writing the README, ask the user about the project. Then generate:
+
+```md
+# Project Name
+
+- Status: Active / Experimental / Archived
+- Main Language: Python / JS / Go / ...
+- Accepting Contributions: Yes / No
+
+---
+
+## What it does
+
+One paragraph.
+
+## How to use
+
+...
+
+## Notes
+
+...
+```
+
 ## Examples
 
 **Example 1 — Pasting a script:**

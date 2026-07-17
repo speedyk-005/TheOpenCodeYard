@@ -91,9 +91,9 @@ Every project should include a small `README.md` so people digging through the y
 ```md
 # Image Compressor
 
-Status: Abandoned
-Main Language: Python
-Accepting Contributions: Yes
+- Status: Abandoned
+- Main Language: Python
+- Accepting Contributions: Yes
 
 ---
 
