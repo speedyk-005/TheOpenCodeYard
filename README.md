@@ -53,6 +53,15 @@ by @speedyk-005 | Archived
 [yards/scraps/speedyk-005/deterministic-span-finder/](yards/scraps/speedyk-005/deterministic-span-finder/)
 </details>
 
+<details>
+<summary>vector-lite</summary>
+
+A small dependency-free 2D/3D vector implementation for learning and lightweight prototypes.
+
+by @speedyk-005 | Experimental 
+[yards/scraps/speedyk-005/vector-lite/](yards/scraps/speedyk-005/vector-lite/)
+</details>
+
 </details>
 
 <details>
