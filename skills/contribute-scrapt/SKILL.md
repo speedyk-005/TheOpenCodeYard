@@ -37,6 +37,11 @@ The agent receives a piece of code (pasted or file path) and determines:
 5. **Stages and commits** the changes
 6. **Reminds the user to push** (never pushes automatically)
 
+### Safety Rules
+
+- **Always switch to a new branch** before making any changes. Never work directly on `main`. Name branches descriptively (e.g., `add/file-renamer`, `deploy/sql-filter`).
+- **Never run dangerous commands** without asking first. This includes: `rm -rf`, `git push --force`, `git reset --hard`, `git checkout` with destructive flags, `git branch -D`. Always ask the user for confirmation.
+
 ### Yard Rules
 
 - Keep projects under 5 MB total
