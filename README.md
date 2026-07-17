@@ -37,16 +37,6 @@ If it runs, demonstrates an idea, or solves a problem, it probably belongs here.
 
 ---
 
-## 🤝 How to Contribute
-
-See **[CONTRIBUTING.md](CONTRIBUTING.md)**.
-
-Fork the repository, drop your code into the appropriate yard, and open a Pull Request.
-
-That's it.
-
----
-
 # 🧩 Scraps
 
 Small utilities, snippets, one-off scripts, reusable helpers, and quick experiments.
@@ -88,6 +78,16 @@ Proofs of concept, demos, unfinished applications, and larger experiments.
 </details>
 
 *More languages will appear as the yard grows.*
+
+---
+
+## 🤝 How to Contribute
+
+See **[CONTRIBUTING.md](CONTRIBUTING.md)**.
+
+Fork the repository, drop your code into the appropriate yard, and open a Pull Request.
+
+That's it.
 
 ---
 
