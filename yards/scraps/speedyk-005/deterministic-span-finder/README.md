@@ -1,9 +1,9 @@
 # DeterministicSpanFinder
 
-Status: Archived
-Origin: Extracted from chunklet
-Main Language: Python
-Accepting Contributions: No
+- Status: Archived
+- Origin: Extracted from chunklet
+- Main Language: Python
+- Accepting Contributions: No
 
 ---
 

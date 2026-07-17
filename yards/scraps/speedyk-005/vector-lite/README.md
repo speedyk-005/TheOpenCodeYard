@@ -1,8 +1,8 @@
 # vector-lite
 
-Status: Experimental
-Main Language: Python
-Accepting Contributions: Yes
+- Status: Experimental
+- Main Language: Python
+- Accepting Contributions: Yes
 
 ---
 
