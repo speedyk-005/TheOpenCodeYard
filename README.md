@@ -82,7 +82,14 @@ Proofs of concept, demos, unfinished applications, and larger experiments.
 <details>
 <summary><b>Python</b></summary>
 
-*(Nothing dumped here yet.)*
+<details>
+<summary>Tasker</summary>
+
+Background task runner using a daemon worker thread. Supports one-shot and continuous modes.
+
+by @speedyk-005 | Experimental 
+[yards/prototypes/speedyk-005/tasker/](yards/prototypes/speedyk-005/tasker/)
+</details>
 
 </details>
 
