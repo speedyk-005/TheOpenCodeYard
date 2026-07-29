@@ -127,6 +127,15 @@ by @speedyk-005 | Experimental
 [yards/prototypes/speedyk-005/tasker/](yards/prototypes/speedyk-005/tasker/)
 </details>
 
+<details>
+<summary>🤖 bot-project</summary>
+
+Rule-based chatbot using token matching and point-scoring. No AI, no APIs.
+
+by @speedyk-005 | Experimental 
+[yards/prototypes/speedyk-005/bot-project/](yards/prototypes/speedyk-005/bot-project/)
+</details>
+
 </details>
 
 <details>
