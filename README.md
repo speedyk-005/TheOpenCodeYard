@@ -80,6 +80,15 @@ by @speedyk-005 | Experimental
 [yards/scraps/speedyk-005/undo-playground/](yards/scraps/speedyk-005/undo-playground/)
 </details>
 
+<details>
+<summary>⏱️ auto-timeout-button</summary>
+
+Button with automatic timeout — resets after 3s of inactivity. Uses daemon thread.
+
+by @speedyk-005 | Experimental 
+[yards/scraps/speedyk-005/auto-timeout-button/](yards/scraps/speedyk-005/auto-timeout-button/)
+</details>
+
 </details>
 
 <details>
