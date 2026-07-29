@@ -112,6 +112,15 @@ by @speedyk-005 | Experimental
 [yards/scraps/speedyk-005/dijkstra/](yards/scraps/speedyk-005/dijkstra/)
 </details>
 
+<details>
+<summary>ℹ️ versatile-info-getter</summary>
+
+Parses name and age from input with validation. Re-prompts for missing fields.
+
+by @speedyk-005 | Experimental 
+[yards/scraps/speedyk-005/versatile-info-getter/](yards/scraps/speedyk-005/versatile-info-getter/)
+</details>
+
 </details>
 
 *More languages will appear as the yard grows.*
