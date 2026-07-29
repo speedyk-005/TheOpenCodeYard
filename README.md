@@ -26,7 +26,7 @@ See **[CONTRIBUTING.md](CONTRIBUTING.md)** if you want to contribute.
 
 ---
 
-# 🧩 Scraps
+# Scraps
 
 Small utilities, snippets, one-off scripts, reusable helpers, and quick experiments.
 
@@ -125,7 +125,7 @@ by @speedyk-005 | Experimental
 
 ---
 
-# 🏗️ Prototypes
+# Prototypes
 
 Proofs of concept, demos, unfinished applications, and larger experiments.
 
@@ -179,7 +179,7 @@ by @speedyk-005 | Experimental
 
 ---
 
-## ⭐ Final Note
+## Final Note
 
 **The Open CodeYard** is maintained by **[@speedyk-005](https://github.com/speedyk-005)** and licensed under the [Apache License 2.0](LICENSE).
 
