@@ -152,6 +152,15 @@ by @speedyk-005 | Experimental
 [yards/prototypes/speedyk-005/bot-project/](yards/prototypes/speedyk-005/bot-project/)
 </details>
 
+<details>
+<summary>🗣️ speech-rate-estimator</summary>
+
+Estimates TTS duration from text. Syllable counting + language-specific speech rates.
+
+by @speedyk-005 | Active 
+[yards/prototypes/speedyk-005/speech-rate-estimator/](yards/prototypes/speedyk-005/speech-rate-estimator/)
+</details>
+
 </details>
 
 <details>
