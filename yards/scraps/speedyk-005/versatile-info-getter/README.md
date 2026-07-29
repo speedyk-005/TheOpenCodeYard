@@ -2,7 +2,7 @@
 
 - Status: Experimental
 - Main Language: C#
-- Accepting Contributions: Yes
+- Accepting Contributions: No
 
 ---
 

@@ -2,7 +2,7 @@
 
 - Status: Experimental
 - Main Language: Python
-- Accepting Contributions: Yes
+- Accepting Contributions: No
 
 ---
 
