@@ -22,18 +22,7 @@ This is a community junkyard for messy, unfinished, nostalgic, experimental, or 
 
 No clean-code police. No perfectionism. Just useful scraps waiting for a second life.
 
----
-
-##  📝 Ground Rules
-
-- 💡 **No perfectionism.** Messy code, half-baked ideas, and ugly prototypes are welcome.
-- 🧪 **No judgment.** Share your experiments, abandoned projects, and "what if..." moments.
-- 📃 **License stays.** Every contribution is released under this project's license. See [LICENSE](https://github.com/speedyk-005/TheOpenCodeYard#-license).
-- ⚖️ **Keep it legal.** Only contribute code you have the right to share.
-- 📦 **Keep it light.** Keep individual projects under 5 MB. No `node_modules`, build artifacts, or binaries unless essential to demo. Big projects belong in their own repo.
-- 🤖  **Know your code.** Don't dump AI-generated or copy-pasted code you can't explain. If you don't understand it, learn it first — then contribute.
-
-If it runs, demonstrates an idea, or solves a problem, it probably belongs here.
+See **[CONTRIBUTING.md](CONTRIBUTING.md)** if you want to contribute.
 
 ---
 
@@ -190,26 +179,8 @@ by @speedyk-005 | Experimental
 
 ---
 
-## 🤝 How to Contribute
-
-See **[CONTRIBUTING.md](CONTRIBUTING.md)**.
-
-Fork the repository, drop your code into the appropriate yard, and open a Pull Request.
-
-That's it.
-
----
-
-## 📜 License
-
-Licensed under the **Apache License 2.0**.
-
-See [LICENSE](LICENSE) for the full license text.
-
----
-
 ## ⭐ Final Note
 
-**The Open CodeYard** is maintained by **[@speedyk-005](https://github.com/speedyk-005)**.
+**The Open CodeYard** is maintained by **[@speedyk-005](https://github.com/speedyk-005)** and licensed under the [Apache License 2.0](LICENSE).
 
 If this repository rescues one of your forgotten ideas, helps you learn something new, or inspires your next project, consider giving it a ⭐.
