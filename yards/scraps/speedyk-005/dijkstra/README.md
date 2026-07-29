@@ -1,4 +1,4 @@
-# Dijkstra CSharp
+# Dijkstra
 
 - Status: Experimental
 - Main Language: C#
