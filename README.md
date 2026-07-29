@@ -71,6 +71,15 @@ by @speedyk-005 | Experimental
 [yards/scraps/speedyk-005/ht-num-converter/](yards/scraps/speedyk-005/ht-num-converter/)
 </details>
 
+<details>
+<summary>↩️ undo-playground</summary>
+
+Dual-queue undo/redo CLI playground. Unlimited undo depth; redo limited to last 5.
+
+by @speedyk-005 | Experimental 
+[yards/scraps/speedyk-005/undo-playground/](yards/scraps/speedyk-005/undo-playground/)
+</details>
+
 </details>
 
 <details>
