@@ -34,7 +34,7 @@ Small utilities, snippets, one-off scripts, reusable helpers, and quick experime
 <summary><b>Python</b></summary>
 
 <details>
-<summary>🔍 DeterministicSpanFinder</summary>
+<summary>DeterministicSpanFinder</summary>
 
 Find substring spans ignoring punctuation. Extracted from chunklet-py (MIT). ~2x faster than regex for this use case.
 
@@ -43,7 +43,7 @@ by @speedyk-005 | Archived
 </details>
 
 <details>
-<summary>📐 vector-lite</summary>
+<summary>vector-lite</summary>
 
 A small dependency-free 2D/3D vector implementation for learning and lightweight prototypes.
 
@@ -52,7 +52,7 @@ by @speedyk-005 | Experimental
 </details>
 
 <details>
-<summary>🔢 ht-num-converter</summary>
+<summary>ht-num-converter</summary>
 
 Converts numbers to Haitian Creole text. Handles 0 through billions.
 
@@ -61,7 +61,7 @@ by @speedyk-005 | Experimental
 </details>
 
 <details>
-<summary>↩️ undo-playground</summary>
+<summary>undo-playground</summary>
 
 Dual-queue undo/redo CLI playground. Unlimited undo depth; redo limited to last 5.
 
@@ -70,7 +70,7 @@ by @speedyk-005 | Experimental
 </details>
 
 <details>
-<summary>⏱️ auto-timeout-button</summary>
+<summary>auto-timeout-button</summary>
 
 Button with automatic timeout — resets after 3s of inactivity. Uses daemon thread.
 
@@ -79,7 +79,7 @@ by @speedyk-005 | Experimental
 </details>
 
 <details>
-<summary>🔤 alpha-range</summary>
+<summary>alpha-range</summary>
 
 Yield letters like range() does numbers. Supports start, stop, and step.
 
@@ -88,7 +88,7 @@ by @speedyk-005 | Experimental
 </details>
 
 <details>
-<summary>📊 progress-bar</summary>
+<summary>progress-bar</summary>
 
 Colored terminal progress bar with gradient, ETA, and stdout hijacking.
 
@@ -102,7 +102,7 @@ by @speedyk-005 | Active
 <summary><b>C#</b></summary>
 
 <details>
-<summary>🛣️ dijkstra</summary>
+<summary>dijkstra</summary>
 
 Dijkstra's shortest path. List-based priority queue.
 
@@ -111,7 +111,7 @@ by @speedyk-005 | Experimental
 </details>
 
 <details>
-<summary>ℹ️ versatile-info-getter</summary>
+<summary>versatile-info-getter</summary>
 
 Parses name and age from input with validation. Re-prompts for missing fields.
 
@@ -133,7 +133,7 @@ Proofs of concept, demos, unfinished applications, and larger experiments.
 <summary><b>Python</b></summary>
 
 <details>
-<summary>🧵 Tasker</summary>
+<summary>Tasker</summary>
 
 Background task runner using a daemon worker thread. Supports one-shot and continuous modes.
 
@@ -142,7 +142,7 @@ by @speedyk-005 | Experimental
 </details>
 
 <details>
-<summary>🤖 bot-project</summary>
+<summary>bot-project</summary>
 
 Rule-based chatbot using token matching and point-scoring. No AI, no APIs.
 
@@ -151,7 +151,7 @@ by @speedyk-005 | Experimental
 </details>
 
 <details>
-<summary>🗣️ speech-rate-estimator</summary>
+<summary>speech-rate-estimator</summary>
 
 Estimates TTS duration from text. Syllable counting + language-specific speech rates.
 
@@ -165,7 +165,7 @@ by @speedyk-005 | Active
 <summary><b>C#</b></summary>
 
 <details>
-<summary>🗺️ astar-csharp</summary>
+<summary>astar-csharp</summary>
 
 A* pathfinding with Euclidean heuristic. PriorityQueue-based.
 
