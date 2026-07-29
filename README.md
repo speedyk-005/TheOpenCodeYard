@@ -89,6 +89,15 @@ by @speedyk-005 | Experimental
 [yards/scraps/speedyk-005/auto-timeout-button/](yards/scraps/speedyk-005/auto-timeout-button/)
 </details>
 
+<details>
+<summary>🔤 alpha-range</summary>
+
+Yield letters like range() does numbers. Supports start, stop, and step.
+
+by @speedyk-005 | Experimental 
+[yards/scraps/speedyk-005/alpha-range/](yards/scraps/speedyk-005/alpha-range/)
+</details>
+
 </details>
 
 <details>
