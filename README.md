@@ -98,6 +98,15 @@ by @speedyk-005 | Experimental
 [yards/scraps/speedyk-005/alpha-range/](yards/scraps/speedyk-005/alpha-range/)
 </details>
 
+<details>
+<summary>📊 progress-bar</summary>
+
+Colored terminal progress bar with gradient, ETA, and stdout hijacking.
+
+by @speedyk-005 | Active 
+[yards/scraps/speedyk-005/progress-bar/](yards/scraps/speedyk-005/progress-bar/)
+</details>
+
 </details>
 
 <details>
