@@ -103,7 +103,14 @@ by @speedyk-005 | Experimental
 <details>
 <summary><b>C#</b></summary>
 
-*(Nothing dumped here yet.)*
+<details>
+<summary>🛣️ dijkstra</summary>
+
+Dijkstra's shortest path. List-based priority queue.
+
+by @speedyk-005 | Experimental 
+[yards/scraps/speedyk-005/dijkstra/](yards/scraps/speedyk-005/dijkstra/)
+</details>
 
 </details>
 
@@ -148,15 +155,6 @@ A* pathfinding with Euclidean heuristic. PriorityQueue-based.
 
 by @speedyk-005 | Experimental 
 [yards/prototypes/speedyk-005/astar-csharp/](yards/prototypes/speedyk-005/astar-csharp/)
-</details>
-
-<details>
-<summary>🛣️ dijkstra-csharp</summary>
-
-Dijkstra's shortest path. List-based priority queue.
-
-by @speedyk-005 | Experimental 
-[yards/prototypes/speedyk-005/dijkstra-csharp/](yards/prototypes/speedyk-005/dijkstra-csharp/)
 </details>
 
 </details>
