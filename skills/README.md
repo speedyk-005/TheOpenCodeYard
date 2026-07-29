@@ -4,7 +4,7 @@ Handle full deployment of scrap code or prototypes to The Open CodeYard.
 
 ## Installation
 
-Place this skill under `.agents/skills/contribute-scrapt/` in your pi agent directory.
+Place this skill under `.agents/skills/contribute-scrapt/` in your  agent directory.
 
 ## Usage
 
