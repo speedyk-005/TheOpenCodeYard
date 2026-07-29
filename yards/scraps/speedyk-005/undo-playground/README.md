@@ -8,7 +8,7 @@
 
 ## What it does
 
-A simple CLI playground demonstrating undo/redo using `LifoQueue`. Max undo stack of 5.
+Dual-queue undo/redo playground using `LifoQueue`. Unlimited undo depth; redo limited to the last 5 undone actions.
 
 ## How to use
 

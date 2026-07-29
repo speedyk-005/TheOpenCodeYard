@@ -74,7 +74,7 @@ by @speedyk-005 | Experimental
 <details>
 <summary>↩️ undo-playground</summary>
 
-Undo/redo CLI playground using LifoQueue. Max undo stack of 5.
+Dual-queue undo/redo CLI playground. Unlimited undo depth; redo limited to last 5.
 
 by @speedyk-005 | Experimental 
 [yards/scraps/speedyk-005/undo-playground/](yards/scraps/speedyk-005/undo-playground/)
