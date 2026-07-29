@@ -71,6 +71,15 @@ by @speedyk-005 | Experimental
 [yards/scraps/speedyk-005/ht-num-converter/](yards/scraps/speedyk-005/ht-num-converter/)
 </details>
 
+<details>
+<summary>↩️ undo-playground</summary>
+
+Undo/redo CLI playground using LifoQueue. Max undo stack of 5.
+
+by @speedyk-005 | Experimental 
+[yards/scraps/speedyk-005/undo-playground/](yards/scraps/speedyk-005/undo-playground/)
+</details>
+
 </details>
 
 <details>
