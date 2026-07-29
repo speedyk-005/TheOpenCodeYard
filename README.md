@@ -62,6 +62,15 @@ by @speedyk-005 | Experimental
 [yards/scraps/speedyk-005/vector-lite/](yards/scraps/speedyk-005/vector-lite/)
 </details>
 
+<details>
+<summary>ht-num-converter</summary>
+
+Converts numbers to Haitian Creole text. Handles 0 through billions.
+
+by @speedyk-005 | Experimental 
+[yards/scraps/speedyk-005/ht-num-converter/](yards/scraps/speedyk-005/ht-num-converter/)
+</details>
+
 </details>
 
 <details>
