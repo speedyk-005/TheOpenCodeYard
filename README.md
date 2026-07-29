@@ -45,7 +45,7 @@ Small utilities, snippets, one-off scripts, reusable helpers, and quick experime
 <summary><b>Python</b></summary>
 
 <details>
-<summary>DeterministicSpanFinder</summary>
+<summary>🔍 DeterministicSpanFinder</summary>
 
 Find substring spans ignoring punctuation. Extracted from chunklet-py (MIT). ~2x faster than regex for this use case.
 
@@ -54,7 +54,7 @@ by @speedyk-005 | Archived
 </details>
 
 <details>
-<summary>vector-lite</summary>
+<summary>📐 vector-lite</summary>
 
 A small dependency-free 2D/3D vector implementation for learning and lightweight prototypes.
 
@@ -63,7 +63,7 @@ by @speedyk-005 | Experimental
 </details>
 
 <details>
-<summary>ht-num-converter</summary>
+<summary>🔢 ht-num-converter</summary>
 
 Converts numbers to Haitian Creole text. Handles 0 through billions.
 
@@ -92,7 +92,7 @@ Proofs of concept, demos, unfinished applications, and larger experiments.
 <summary><b>Python</b></summary>
 
 <details>
-<summary>Tasker</summary>
+<summary>🧵 Tasker</summary>
 
 Background task runner using a daemon worker thread. Supports one-shot and continuous modes.
 
