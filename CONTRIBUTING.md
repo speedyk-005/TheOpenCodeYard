@@ -45,7 +45,7 @@ Perfect if you're contributing a single file or a small project.
 
 1. Fork this repository.
 2. Navigate to the appropriate yard folder (for example, `prototypes/memos-and-scraps/`).
-3. Click **Add file → Create new file**.
+3. Click **Add file => Create new file**.
 4. Paste your code, commit the changes, and open a Pull Request.
 
 ---
