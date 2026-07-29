@@ -141,7 +141,14 @@ by @speedyk-005 | Experimental
 <details>
 <summary><b>C#</b></summary>
 
-*(Nothing dumped here yet.)*
+<details>
+<summary>🗺️ astar-csharp</summary>
+
+A* pathfinding with Euclidean heuristic. PriorityQueue-based.
+
+by @speedyk-005 | Experimental 
+[yards/prototypes/speedyk-005/astar-csharp/](yards/prototypes/speedyk-005/astar-csharp/)
+</details>
 
 </details>
 
