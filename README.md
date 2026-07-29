@@ -150,6 +150,15 @@ by @speedyk-005 | Experimental
 [yards/prototypes/speedyk-005/astar-csharp/](yards/prototypes/speedyk-005/astar-csharp/)
 </details>
 
+<details>
+<summary>🛣️ dijkstra-csharp</summary>
+
+Dijkstra's shortest path. List-based priority queue.
+
+by @speedyk-005 | Experimental 
+[yards/prototypes/speedyk-005/dijkstra-csharp/](yards/prototypes/speedyk-005/dijkstra-csharp/)
+</details>
+
 </details>
 
 *More languages will appear as the yard grows.*
